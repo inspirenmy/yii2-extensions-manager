@@ -1,5 +1,5 @@
 {
-  "name": "devgroup/yii2-extensions-manager",
+  "name": "inspirenmy/yii2-extensions-manager",
   "description": "Manage and install your yii2 extensions in browser!",
   "type": "yii2-extension",
   "keywords": [
