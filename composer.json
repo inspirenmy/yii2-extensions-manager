@@ -27,7 +27,7 @@
     "yiisoft/yii2": "^2.0.6",
     "devgroup/yii2-tag-dependency-helper": "~1.5",
     "devgroup/yii2-deferred-tasks": "*",
-    "devgroup/yii2-admin-utils": "*",
+    "devgroup/yii2-admin-utils": "@dev",
     "dmstr/yii2-migrate-command": "^0.3.1",
     "knplabs/packagist-api": "*",
     "wikimedia/composer-merge-plugin": "^1.3"
